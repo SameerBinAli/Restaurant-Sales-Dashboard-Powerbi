@@ -9,9 +9,9 @@ The dashboard provides a comprehensive view of restaurant sales operations, enab
 ## 🛠 Tools Used
 
 - **Power BI Desktop**
-- **Power Query** (Data Transformation)
-- **DAX** (Data Analysis Expressions)
 - **Excel** (Data Cleaning & Preparation)
+- **DAX** (Data Analysis Expressions)
+- **Data Modelling** (Star Schema with 4 tables)
 
 ## 📈 Key Insights
 
@@ -31,7 +31,6 @@ The dashboard provides a comprehensive view of restaurant sales operations, enab
 
 - `Restaurant Sales Dashboard.pbix` - Main Power BI dashboard file
 - `RestaurantDataset.xlsx` - Raw dataset
-- `Restaurant_Sales_Report.docx` - Detailed analysis report
 - `dashboard_snapshot.png` - Overview image of the dashboard
 - `README.md` - Project documentation
 
