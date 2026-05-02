@@ -15,11 +15,11 @@ The dashboard provides a comprehensive view of restaurant sales operations, enab
 
 ## 📈 Key Insights
 
-- **£12.8M Total Revenue** across 123K transactions with an Average Transaction Value of £104.1
+- **12.8M Total Revenue** across 123K transactions with an Average Transaction Value of 104.1
 - Consistent **year-over-year revenue decline** across all four cities in 2025
-- **London** remains the top contributing location at £2.07M (2025)
-- **Weekends drive nearly half of total revenue** — Sunday (£602K) and Saturday (£426K) lead all days
-- **Top 5 menu items** collectively contribute 20% of total revenue, led by Creamy Mushroom Curry (£810K)
+- **London** remains the top contributing location at 2.07M (2025)
+- **Weekends drive nearly half of total revenue** — Sunday (602K) and Saturday (426K) lead all days
+- **Top 5 menu items** collectively contribute 20% of total revenue, led by Creamy Mushroom Curry (810K)
 - **High discounts do not consistently drive higher revenue**, indicating inefficiencies in promotional strategies
 - **UPT remains stable** across both years, suggesting growth depends on transaction volume rather than basket size
 
